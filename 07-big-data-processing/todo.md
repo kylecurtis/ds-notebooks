@@ -1,0 +1,19 @@
+07-big-data-processing/
+├── 07a-introduction-to-big-data.ipynb
+├── 07b-hadoop-and-hdfs-overview.ipynb
+├── 07c-mapreduce-fundamentals.ipynb
+├── 07d-introduction-to-apache-spark.ipynb
+├── 07e-spark-rdd-operations.ipynb
+├── 07f-spark-dataframes-and-datasets.ipynb
+├── 07g-spark-sql.ipynb
+├── 07h-spark-streaming-and-real-time-data.ipynb
+├── 07i-spark-ml-(machine-learning-with-spark).ipynb
+├── 07j-cluster-computing-and-distributed-systems.ipynb
+├── 07k-cloud-based-big-data-solutions.ipynb
+├── 07l-data-ingestion-and-etl-with-spark.ipynb
+├── 07m-handling-semi-structured-data.ipynb
+├── 07n-big-data-storage-formats-(parquet-avro).ipynb
+├── 07o-performance-tuning-and-optimization.ipynb
+├── 07p-introduction-to-nosql-databases.ipynb
+├── 07q-apache-kafka-basics.ipynb
+├── 07r-building-scalable-data-pipelines.ipynb

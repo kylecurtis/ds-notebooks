@@ -1,0 +1,21 @@
+09-deep-learning-essentials/
+├── 09a-introduction-to-deep-learning.ipynb
+├── 09b-neural-networks-basics.ipynb
+├── 09c-building-neural-networks-with-keras.ipynb
+├── 09d-training-and-evaluating-neural-networks.ipynb
+├── 09e-convolutional-neural-networks-(cnn).ipynb
+├── 09f-recurrent-neural-networks-(rnn).ipynb
+├── 09g-lstm-and-gru-networks.ipynb
+├── 09h-transfer-learning-and-fine-tuning.ipynb
+├── 09i-autoencoders-and-dimensionality-reduction.ipynb
+├── 09j-generative-models-and-gans.ipynb
+├── 09k-deep-learning-for-nlp.ipynb
+├── 09l-deep-learning-for-time-series.ipynb
+├── 09m-hyperparameter-tuning-in-deep-learning.ipynb
+├── 09n-regularization-techniques-and-dropout.ipynb
+├── 09o-optimization-algorithms-and-loss-functions.ipynb
+├── 09p-computer-vision-with-deep-learning.ipynb
+├── 09q-deploying-deep-learning-models.ipynb
+├── 09r-interpretability-and-explainability-in-dl.ipynb
+├── 09s-best-practices-and-common-pitfalls.ipynb
+├── 09t-end-to-end-deep-learning-project.ipynb

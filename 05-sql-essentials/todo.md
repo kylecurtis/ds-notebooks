@@ -1,0 +1,19 @@
+05-sql-essentials/
+├── 05a-introduction-to-sql.ipynb
+├── 05b-selecting-and-filtering-data.ipynb
+├── 05c-ordering-and-limiting-data.ipynb
+├── 05d-aggregation-and-grouping.ipynb
+├── 05e-inner-and-outer-joins.ipynb
+├── 05f-subqueries-and-common-table-expressions.ipynb
+├── 05g-window-functions.ipynb
+├── 05h-data-manipulation-(insert-update-delete).ipynb
+├── 05i-data-definition-(create-alter-drop).ipynb
+├── 05j-data-types-and-constraints.ipynb
+├── 05k-indexing-and-performance-optimization.ipynb
+├── 05l-working-with-date-and-time.ipynb
+├── 05m-string-functions-and-pattern-matching.ipynb
+├── 05n-case-statements-and-conditional-logic.ipynb
+├── 05o-database-views.ipynb
+├── 05p-transactions-and-isolation-levels.ipynb
+├── 05q-connecting-sql-with-python.ipynb
+├── 05r-practice-projects-and-case-studies.ipynb

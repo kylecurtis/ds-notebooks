@@ -1,0 +1,23 @@
+02-numpy-essentials/
+├── 02a-introduction-to-numpy.ipynb
+├── 02b-arrays-creation-and-attributes.ipynb
+├── 02c-array-indexing-and-slicing.ipynb
+├── 02d-array-shapes-and-reshaping.ipynb
+├── 02e-array-stacking-and-splitting.ipynb
+├── 02f-array-data-types.ipynb
+├── 02g-numpy-mathematical-operations.ipynb
+├── 02h-statistical-functions.ipynb
+├── 02i-boolean-arrays-and-masking.ipynb
+├── 02j-array-broadcasting.ipynb
+├── 02k-array-sorting-and-searching.ipynb
+├── 02l-array-file-input-output.ipynb
+├── 02m-linear-algebra-with-numpy.ipynb
+├── 02n-random-number-generation.ipynb
+├── 02o-performance-and-vectorization.ipynb
+├── 02p-numpy-structured-arrays.ipynb
+├── 02q-polynomial-and-curve-fitting.ipynb
+├── 02r-working-with-datetime-data.ipynb
+├── 02s-numpy-universal-functions-(ufuncs).ipynb
+├── 02t-error-handling-and-debugging.ipynb
+├── 02u-numpy-integration-with-other-libraries.ipynb
+├── 02v-best-practices-and-common-pitfalls.ipynb

@@ -1,0 +1,19 @@
+10-model-deployment/
+├── 10a-introduction-to-model-deployment.ipynb
+├── 10b-model-serialization-(pickle-joblib).ipynb
+├── 10c-creating-rest-apis-with-flask.ipynb
+├── 10d-building-rest-apis-with-fastapi.ipynb
+├── 10e-containerizing-models-with-docker.ipynb
+├── 10f-cloud-deployment-on-aws.ipynb
+├── 10g-cloud-deployment-on-gcp.ipynb
+├── 10h-cloud-deployment-on-azure.ipynb
+├── 10i-serverless-deployment-(aws-lambda).ipynb
+├── 10j-model-deployment-with-heroku.ipynb
+├── 10k-monitoring-and-maintaining-models.ipynb
+├── 10l-automated-retraining-and-ci-cd.ipynb
+├── 10m-scaling-model-deployments.ipynb
+├── 10n-version-control-and-model-versioning.ipynb
+├── 10o-deployment-security-best-practices.ipynb
+├── 10p-using-streamlit-for-ml-web-apps.ipynb
+├── 10q-mlops-overview-and-tools.ipynb
+├── 10r-end-to-end-model-deployment-project.ipynb

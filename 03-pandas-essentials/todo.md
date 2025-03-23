@@ -1,0 +1,21 @@
+03-pandas-essentials/
+├── 03a-introduction-to-pandas.ipynb
+├── 03b-series-and-dataframes.ipynb
+├── 03c-data-indexing-and-selection.ipynb
+├── 03d-data-cleaning-and-preprocessing.ipynb
+├── 03e-data-types-and-missing-values.ipynb
+├── 03f-grouping-and-aggregation.ipynb
+├── 03g-merging-joining-and-concatenating.ipynb
+├── 03h-data-reshaping-and-pivoting.ipynb
+├── 03i-applying-functions-and-mapping.ipynb
+├── 03j-statistical-analysis-with-pandas.ipynb
+├── 03k-working-with-datetime-data.ipynb
+├── 03l-string-operations-in-pandas.ipynb
+├── 03m-visualization-with-pandas.ipynb
+├── 03n-reading-and-writing-data.ipynb
+├── 03o-working-with-multiindex.ipynb
+├── 03p-time-series-analysis.ipynb
+├── 03q-categorical-data-in-pandas.ipynb
+├── 03r-performance-optimization-in-pandas.ipynb
+├── 03s-pandas-integration-with-other-libraries.ipynb
+├── 03t-best-practices-and-common-pitfalls.ipynb

@@ -1,0 +1,19 @@
+08-data-engineering/
+├── 08a-introduction-to-data-engineering.ipynb
+├── 08b-data-engineering-tools-and-ecosystem.ipynb
+├── 08c-etl-and-elt-processes.ipynb
+├── 08d-building-data-pipelines.ipynb
+├── 08e-data-modeling-and-database-design.ipynb
+├── 08f-data-warehousing-basics.ipynb
+├── 08g-data-lake-concepts.ipynb
+├── 08h-workflow-orchestration-with-airflow.ipynb
+├── 08i-docker-and-containerization-basics.ipynb
+├── 08j-cloud-storage-solutions.ipynb
+├── 08k-streaming-data-pipelines.ipynb
+├── 08l-introduction-to-apache-kafka.ipynb
+├── 08m-data-quality-and-validation.ipynb
+├── 08n-monitoring-and-logging-in-data-pipelines.ipynb
+├── 08o-infrastructure-as-code-(terraform).ipynb
+├── 08p-scalability-and-performance-optimization.ipynb
+├── 08q-security-and-governance-in-data-engineering.ipynb
+├── 08r-end-to-end-data-engineering-project.ipynb

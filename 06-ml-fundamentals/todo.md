@@ -1,0 +1,21 @@
+06-ml-fundamentals/
+├── 06a-introduction-to-machine-learning.ipynb
+├── 06b-supervised-vs-unsupervised-learning.ipynb
+├── 06c-data-preprocessing-and-feature-engineering.ipynb
+├── 06d-model-evaluation-and-validation.ipynb
+├── 06e-linear-regression.ipynb
+├── 06f-logistic-regression.ipynb
+├── 06g-decision-trees-and-random-forests.ipynb
+├── 06h-support-vector-machines-(svm).ipynb
+├── 06i-k-nearest-neighbors-(knn).ipynb
+├── 06j-naive-bayes-classifiers.ipynb
+├── 06k-clustering-algorithms.ipynb
+├── 06l-dimensionality-reduction-(pca).ipynb
+├── 06m-ensemble-methods-and-boosting.ipynb
+├── 06n-hyperparameter-tuning-and-grid-search.ipynb
+├── 06o-model-pipelines-and-workflows.ipynb
+├── 06p-handling-imbalanced-data.ipynb
+├── 06q-cross-validation-techniques.ipynb
+├── 06r-feature-selection-methods.ipynb
+├── 06s-machine-learning-best-practices.ipynb
+├── 06t-end-to-end-ml-project.ipynb

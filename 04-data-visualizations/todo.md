@@ -1,0 +1,19 @@
+04-data-visualizations/
+├── 04a-introduction-to-data-visualization.ipynb
+├── 04b-matplotlib-basics.ipynb
+├── 04c-seaborn-basics.ipynb
+├── 04d-line-and-area-plots.ipynb
+├── 04e-bar-and-column-charts.ipynb
+├── 04f-histograms-and-density-plots.ipynb
+├── 04g-boxplots-and-violinplots.ipynb
+├── 04h-scatter-plots-and-bubble-charts.ipynb
+├── 04i-heatmaps-and-clustermaps.ipynb
+├── 04j-pairplots-and-correlation-plots.ipynb
+├── 04k-facetgrids-and-subplots.ipynb
+├── 04l-time-series-visualization.ipynb
+├── 04m-geospatial-data-visualization.ipynb
+├── 04n-interactive-visualizations-(plotly).ipynb
+├── 04o-advanced-customization-and-styling.ipynb
+├── 04p-color-theory-and-palettes.ipynb
+├── 04q-visualization-best-practices.ipynb
+├── 04r-storytelling-with-data.ipynb
